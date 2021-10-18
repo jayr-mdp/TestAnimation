@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Louize-Bold-205TF.otf</string>
+		<string>Louize-Italic-205TF.otf</string>
+		<string>Louize-Medium Italic-205TF.otf</string>
+		<string>Louize-Medium-205TF.otf</string>
+		<string>Louize-Regular-205TF.otf</string>
+		<string>Nunito-Regular.ttf</string>
+	</array>
+</dict>
+</plist>
